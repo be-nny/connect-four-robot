@@ -1,5 +1,5 @@
 # connect-four-robot
-last updated: 2022
+code last updated: 2022
 
 # Connect Four Robot Hardware
 ![connect4-v2-3](https://github.com/be-nny/connect-four-robot/assets/108811144/f9719679-bc68-42a8-8089-c668b4f4c2b7)
